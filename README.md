@@ -1,6 +1,6 @@
 # Artifact - Security Anti-Patterns in Terraform Modules: Identifying Risks in Provisioners and External Data Sources
 
-This repository contains the artifact for our paper "Security Anti-Patterns in Terraform Modules: Identifying Risks in Provisioners and External Data Sources" submitted to the MSR 2026.
+This repository contains the artifact for our paper "Security Anti-Patterns in Terraform Modules: Identifying Risks in Provisioners and External Data Sources".
 
 
 We present the first empirical study of escape hatches in Terraform modules. Analyzing all 17,019 modules from the public Terraform Registry, we find that 1,359 (7.96%) contain at least one escape hatches. Through qualitative analysis, we develop a taxonomy of ten recurring security smells that capture distinct implementation patterns and their associated risks.
